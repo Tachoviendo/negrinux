@@ -1,0 +1,49 @@
+Los que conforman la mesa de examen:
+	1. Presidente
+	2. Vocal
+	3. Secretario
+
+a. EL presidente si o si tiene que pertenecer al area de la materia a la cual pertenece el examen
+b. secretario tambien debe estar habilitado en el area 
+
+Nueva entidad:
+
+Area. 
+	a. cada docente esta habilitado a una o mas areas
+	b. Cada meteria pertenece a un area
+	c. para dictar una materia el docente debe estar habilitado por inspeccion en el area de la materia.
+
+
+nueva entidad:
+
+Usuario
+id 
+tag
+pass
+(por defencot tag y pass son la cedula)
+
+Mesa de examen:
+id
+materia
+horario
+fecha
+salon
+presidente
+secretario
+vocal
+
+
+Nueva entidad:
+Bedeles
+(no se diferencia en ningun atributo de personas)
+entendemos que aunque no se diferencie, debemos tener una entiedad bedele porque esto nos trea una mejor organizacion a la hora de acceder a lso datos
+agregar atributo rol a personas
+
+
+
+CONCLUSIONES:
+	Las dos maneras de solucionar los probelmas que se encuentran en la base de datos son :
+	a. Encontrar atributos que de verdad nos sirvan para las funcionalidades
+	b. diferenciar las tablas mediante id's que nos permitan organizar de una mejor manera los datos.
+
+

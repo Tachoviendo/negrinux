@@ -1,0 +1,53 @@
+Index (usuario externo)
+	Header:
+		botones:
+			1.Login
+			2.Solicitar preinscripcion
+
+		menu despelgable:
+			1. Sobre nosotros:
+				a. Historia de Utu
+				b. Mapa interactivo
+				c. Oferta Educativa
+			2. Lineamiento Educativo
+				a. Mision 
+				b. Vision	
+				c. Proyectos
+
+Login (Usuario Externo)
+	form:
+		Campos
+			a. Usuario
+			b. Contrasenia
+		Botones
+			a. Iniciar Sesion 
+			b. Olvide mi contrasenia
+			c. Volver
+
+Solicitar Preinscripcion
+	form:
+		Campos
+			a. Averiguar con la ads
+		botonoes
+			a. enviar
+			b. Cancelar
+Historia de Utu:
+	buscar info
+
+Mapa interactivo
+	a. Sacar foto de cada salon
+	b. Breve desc de cada salon
+	c. averiguar que grupo se dicatn en cada salon
+	d. hacer un mapa de la utu
+
+Oferta Educativa
+	a. breve descrp de cada curso
+	b. testimonio de ex estudiantes
+	c. link al programa de cada asignatura
+
+Lineamiento educativo
+	a. Redactar mision
+	b. redactar vision
+	c. ver que proyectos se estan haciendo 
+
+	`

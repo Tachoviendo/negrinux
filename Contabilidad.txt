@@ -1,0 +1,5 @@
+Van (Valor actual neto)
+Es un indicador que me trae el flujo proyectado a tiempo real o anio base absorviendo la inflacion en el transcuro sd elos anios. Es una conversoa de inflacion, me trae al presente la plata que voy a tener en el futuro.
+
+Tir (Tasa interna de retorno)
+	Es un indicador financiero que me indica en que porcentaje se recupera la inversion 
