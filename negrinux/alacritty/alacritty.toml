@@ -1,0 +1,19 @@
+import = ["/home/tacho/.config/alacritty/themes/alacritty-theme/themes/smoooooth.toml"]
+
+[font]
+size = 8.5
+
+[font.normal]
+family = "AurulentSansM Nerd Font"
+style = "Regular"
+
+[primary]
+background = "#1a1a1a"
+
+[window]
+dynamic_padding = true
+opacity = 0.8
+
+[window.padding]
+x = 7
+y = 7
